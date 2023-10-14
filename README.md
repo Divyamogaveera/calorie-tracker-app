@@ -1,8 +1,17 @@
 UI
 
-![image](https://github.com/Divyamogaveera/calorie-tracker-app/assets/85350201/a4f05211-5ffb-42a0-b429-73ff50730b74)
+![image](https://github.com/Divyamogaveera/calorie-tracker-app/assets/85350201/573b4d17-ddfb-4a9b-a863-6b4aa26cb769)
 
-![image](https://github.com/Divyamogaveera/calorie-tracker-app/assets/85350201/db660f8b-f8fc-4124-b56a-c5458b90c163)
+![image](https://github.com/Divyamogaveera/calorie-tracker-app/assets/85350201/2c49217d-dae6-44e4-93eb-b4d2f8d1a1f3)
+
+![image](https://github.com/Divyamogaveera/calorie-tracker-app/assets/85350201/6ffd1430-82a7-4f80-99eb-3d508bee26ff)
+
+after deleting all
+![image](https://github.com/Divyamogaveera/calorie-tracker-app/assets/85350201/88f650e3-421d-4344-b119-c6399b4d73e5)
+
+
+
+
 
 
 
