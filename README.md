@@ -1,3 +1,11 @@
+UI
+
+![image](https://github.com/Divyamogaveera/calorie-tracker-app/assets/85350201/a4f05211-5ffb-42a0-b429-73ff50730b74)
+
+![image](https://github.com/Divyamogaveera/calorie-tracker-app/assets/85350201/db660f8b-f8fc-4124-b56a-c5458b90c163)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
